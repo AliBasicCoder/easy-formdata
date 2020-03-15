@@ -6,6 +6,10 @@
   "dependencies": {
     "busboy": "^0.3.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliBasicCoder/easy-formdata.git"
+  },
   "devDependencies": {
     "express": "^4.17.1"
   }
